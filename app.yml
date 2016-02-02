@@ -1,4 +1,4 @@
-application: my-codefish
+application: my-code-fish
 runtime: python
 version: 1
 api_version: 1
